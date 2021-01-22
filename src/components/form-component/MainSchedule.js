@@ -91,7 +91,7 @@ function MainSchedule() {
     return (
         <>
             <Paper className={classes.pageContent}>
-            <h2 style={styles.headerStyle}>BSCS 3A</h2>
+            <h2 style={styles.headerStyle}>year-and-section</h2>
             <br/>
             <Button 
                 buttonSize='btn--medium' 
