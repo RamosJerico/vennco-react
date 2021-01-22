@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Century Gothic;
+}
+.home--container {
+    height: 100%;
+    width: 100%;
+}
+.home--container-box {
+    justify-content: center;
+    height: 50%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+}
+.home--container-desc {
+    height: 200px;
+    width: 450px;
+}
+.home--container-desc h3 {
+    color: #276afb;
+    width: 360px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid #276afb;
+}
+.home--container-desc h1 {
+    font-size: 36px;
+}
+.home--team-logo {
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.home--team-logo img {
+    height: 500px;
+    width: 500px;
+    margin-top: -50px;
+}
+.home--card-section {
+    margin-top: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.home--card-box {
+    margin: 30px;
+}
+
+/* this is the dark container */
+.home--container-box-dark {
+    color: #ffffff;
+    height: 50%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.home--container-desc-dark {
+    height: 90%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.home--desc-details {
+    margin-left: 10vh;
+    width: 73vh;
+}
+.home--desc-details h1 {
+    color: #ffffff;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid #af2e17;
+}
+.home--img-container-dark {
+    height: 100%;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.home--wmsu-img-dark img {
+    height: 250px;
+    width: 250px;
+}
+.home--ics-img-dark {
+    margin-top: 15vh;
+    margin-left: -10vh;
+}
+.home--ics-img-dark img {
+    height: 150px;
+    width: 150px;
+}
+.home--card-section-dark {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.home--card-box-dark {
+    margin: 30px;
+}

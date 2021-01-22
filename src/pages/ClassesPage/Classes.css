@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.classes-page-container {
+    margin-top: 20px;
+}
+.class-card-section {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.class-card-box {
+    margin: 20px;
+}
+.class-header {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

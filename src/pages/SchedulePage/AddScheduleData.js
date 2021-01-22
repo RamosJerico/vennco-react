@@ -1,0 +1,16 @@
+export const getClass = () => ([
+    { id: 'BSCS 1A', title: 'BSCS 1A' },
+    { id: 'BSCS 1B', title: 'BSCS 1B' },
+    { id: 'BSIT 1A', title: 'BSIT 1A' },
+    { id: 'BSIT 1B', title: 'BSIT 1B' },
+    { id: 'BSCS 2A', title: 'BSCS 2A' },
+    { id: 'BSCS 2B', title: 'BSCS 2B' },
+    { id: 'BSIT 2A', title: 'BSIT 2A' },
+    { id: 'BSIT 2B', title: 'BSIT 2B' },
+    { id: 'BSCS 3A', title: 'BSCS 3A' },
+    { id: 'BSCS 3B', title: 'BSCS 3B' },
+    { id: 'BSIT 3A', title: 'BSIT 3A' },
+    { id: 'BSIT 3B', title: 'BSIT 3B' },
+    { id: 'BSCS 4', title: 'BSCS 4' },
+    { id: 'BSIT 4', title: 'BSIT 4' },
+])

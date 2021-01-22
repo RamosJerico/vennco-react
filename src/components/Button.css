@@ -1,0 +1,115 @@
+.btn {
+    margin: 6px;
+    padding: 8px 20px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.btn--primary{
+    background-color: #ffffff;
+    color: #242424;
+    border: 1px solid #ffffff;
+}
+.btn--outline{
+    background-color: transparent;
+    color: #fff;
+    padding: 8px 20px;
+    border: 1px solid #fff;
+    transition: all 0.3s ease-out;
+}
+.btn--medium{
+    padding: 8px 20px;
+    font-size: 22px;
+    font-family: Century Gothic;
+}
+.btn--large{
+    padding: 12px 26px;
+    font-size: 26px;
+    font-family: Century Gothic;
+}
+.btn--xlarge {
+    padding: 12px 32px;
+    font-size: 30px;
+    font-family: Century Gothic;
+}
+.btn--mobile {
+    text-align: center;
+    border-radius: 5px;
+    width: 100%;
+    text-decoration: none;
+    font-size: 24px;
+    background-color: transparent;
+    color: #ffffff;
+    padding: 14px 20px;
+    border: 1px solid #ffffff;
+    transition: all 0.3s ease-out;
+}
+.btn--wide {
+    padding: 12px 64px;
+    font-size: 20px;
+}
+.btn--medium:hover, .btn--large:hover, .btn--xlarge:hover, .btn--mobile:hover{
+    background: #fff;
+    color: #242424;
+    transition: all 0.3s ease-out;
+}
+.btn--wide:hover {
+    color: #ffffff;
+    background-color: #242424;
+    transition: all 0.3s ease-out;
+}
+.btn-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 6px 16px;
+    height: 100%;
+    width: 100%;
+}
+.blue {
+    background-color: #276afb;
+    color: #ffffff;
+    border: none;
+}
+.blue:hover {
+    background-color: #242424;
+    color: #ffffff;
+    border: none;
+}
+.green {
+    background-color: #0c7513;
+    color: #ffffff;
+    border: none;
+}
+.green:hover {
+    background-color: #af2e17;
+    color: #ffffff;
+    border: none;
+}
+.gray {
+    background-color: #242424;
+    color: #ffffff;
+    border: none;
+}
+.gray:hover {
+    background-color: #0c7513;
+    color: #ffffff;
+}
+.red {
+    background-color: #ca4128;
+    color: #ffffff;
+    border: none;
+}
+.red:hover {
+    background-color: #242424;
+    color: #ffffff;
+    border: none;
+}
+.primary {
+    background-color: #ffffff;
+    color: #242424;
+    border: none;
+}
